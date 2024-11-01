@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\estudos Csharp\\projetoExemplo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{164C2A74-7CE7-4571-A7D0-32772BCECB1F}|projetoExemplo\\projetoExemplo.csproj|e:\\estudos csharp\\projetoexemplo\\projetoexemplo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{164C2A74-7CE7-4571-A7D0-32772BCECB1F}|projetoExemplo\\projetoExemplo.csproj|solutionrelative:projetoexemplo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164C2A74-7CE7-4571-A7D0-32772BCECB1F}|projetoExemplo\\projetoExemplo.csproj|e:\\estudos csharp\\projetoexemplo\\projetoexemplo\\models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164C2A74-7CE7-4571-A7D0-32772BCECB1F}|projetoExemplo\\projetoExemplo.csproj|solutionrelative:projetoexemplo\\models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164C2A74-7CE7-4571-A7D0-32772BCECB1F}|projetoExemplo\\projetoExemplo.csproj|e:\\estudos csharp\\projetoexemplo\\projetoexemplo\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{164C2A74-7CE7-4571-A7D0-32772BCECB1F}|projetoExemplo\\projetoExemplo.csproj|solutionrelative:projetoexemplo\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164C2A74-7CE7-4571-A7D0-32772BCECB1F}|projetoExemplo\\projetoExemplo.csproj|e:\\estudos csharp\\projetoexemplo\\projetoexemplo\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164C2A74-7CE7-4571-A7D0-32772BCECB1F}|projetoExemplo\\projetoExemplo.csproj|solutionrelative:projetoexemplo\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164C2A74-7CE7-4571-A7D0-32772BCECB1F}|projetoExemplo\\projetoExemplo.csproj|e:\\estudos csharp\\projetoexemplo\\projetoexemplo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{164C2A74-7CE7-4571-A7D0-32772BCECB1F}|projetoExemplo\\projetoExemplo.csproj|solutionrelative:projetoexemplo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164C2A74-7CE7-4571-A7D0-32772BCECB1F}|projetoExemplo\\projetoExemplo.csproj|e:\\estudos csharp\\projetoexemplo\\projetoexemplo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{164C2A74-7CE7-4571-A7D0-32772BCECB1F}|projetoExemplo\\projetoExemplo.csproj|solutionrelative:projetoexemplo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164C2A74-7CE7-4571-A7D0-32772BCECB1F}|projetoExemplo\\projetoExemplo.csproj|e:\\estudos csharp\\projetoexemplo\\projetoexemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164C2A74-7CE7-4571-A7D0-32772BCECB1F}|projetoExemplo\\projetoExemplo.csproj|solutionrelative:projetoexemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164C2A74-7CE7-4571-A7D0-32772BCECB1F}|projetoExemplo\\projetoExemplo.csproj|e:\\estudos csharp\\projetoexemplo\\projetoexemplo\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164C2A74-7CE7-4571-A7D0-32772BCECB1F}|projetoExemplo\\projetoExemplo.csproj|solutionrelative:projetoexemplo\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\estudos Csharp\\projetoExemplo\\projetoExemplo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "projetoExemplo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\estudos Csharp\\projetoExemplo\\projetoExemplo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "projetoExemplo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T19:43:00.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\estudos Csharp\\projetoExemplo\\projetoExemplo\\Views\\Contato\\Index.cshtml",
+              "RelativeDocumentMoniker": "projetoExemplo\\Views\\Contato\\Index.cshtml",
+              "ToolTip": "E:\\estudos Csharp\\projetoExemplo\\projetoExemplo\\Views\\Contato\\Index.cshtml",
+              "RelativeToolTip": "projetoExemplo\\Views\\Contato\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T19:39:37.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContatoModel.cs",
+              "DocumentMoniker": "E:\\estudos Csharp\\projetoExemplo\\projetoExemplo\\Models\\ContatoModel.cs",
+              "RelativeDocumentMoniker": "projetoExemplo\\Models\\ContatoModel.cs",
+              "ToolTip": "E:\\estudos Csharp\\projetoExemplo\\projetoExemplo\\Models\\ContatoModel.cs",
+              "RelativeToolTip": "projetoExemplo\\Models\\ContatoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:34:22.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "E:\\estudos Csharp\\projetoExemplo\\projetoExemplo\\Controllers\\ContatoController.cs",
+              "RelativeDocumentMoniker": "projetoExemplo\\Controllers\\ContatoController.cs",
+              "ToolTip": "E:\\estudos Csharp\\projetoExemplo\\projetoExemplo\\Controllers\\ContatoController.cs",
+              "RelativeToolTip": "projetoExemplo\\Controllers\\ContatoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:38:23.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\estudos Csharp\\projetoExemplo\\projetoExemplo\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "projetoExemplo\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\estudos Csharp\\projetoExemplo\\projetoExemplo\\Properties\\launchSettings.json",
+              "RelativeToolTip": "projetoExemplo\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvwsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-10T00:33:07.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\estudos Csharp\\projetoExemplo\\projetoExemplo\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "projetoExemplo\\appsettings.Development.json",
+              "ToolTip": "E:\\estudos Csharp\\projetoExemplo\\projetoExemplo\\appsettings.Development.json",
+              "RelativeToolTip": "projetoExemplo\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-10T00:33:01.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\estudos Csharp\\projetoExemplo\\projetoExemplo\\Program.cs",
+              "RelativeDocumentMoniker": "projetoExemplo\\Program.cs",
+              "ToolTip": "E:\\estudos Csharp\\projetoExemplo\\projetoExemplo\\Program.cs",
+              "RelativeToolTip": "projetoExemplo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:13:37.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\estudos Csharp\\projetoExemplo\\projetoExemplo\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "projetoExemplo\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\estudos Csharp\\projetoExemplo\\projetoExemplo\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "projetoExemplo\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T23:59:26.011Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
