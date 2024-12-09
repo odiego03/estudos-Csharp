@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\estudos Csharp\\WebApi8 - solo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE752A6-D8C4-4588-A5AF-38AB43DAA42A}|WebApi8\\WebApi8.csproj|e:\\estudos csharp\\webapi8 - solo\\webapi8\\services\\autor\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE752A6-D8C4-4588-A5AF-38AB43DAA42A}|WebApi8\\WebApi8.csproj|solutionrelative:webapi8\\services\\autor\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE752A6-D8C4-4588-A5AF-38AB43DAA42A}|WebApi8\\WebApi8.csproj|e:\\estudos csharp\\webapi8 - solo\\webapi8\\dto\\autor\\autoredicaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE752A6-D8C4-4588-A5AF-38AB43DAA42A}|WebApi8\\WebApi8.csproj|solutionrelative:webapi8\\dto\\autor\\autoredicaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE752A6-D8C4-4588-A5AF-38AB43DAA42A}|WebApi8\\WebApi8.csproj|e:\\estudos csharp\\webapi8 - solo\\webapi8\\services\\autor\\iautorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE752A6-D8C4-4588-A5AF-38AB43DAA42A}|WebApi8\\WebApi8.csproj|solutionrelative:webapi8\\services\\autor\\iautorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE752A6-D8C4-4588-A5AF-38AB43DAA42A}|WebApi8\\WebApi8.csproj|e:\\estudos csharp\\webapi8 - solo\\webapi8\\models\\autormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE752A6-D8C4-4588-A5AF-38AB43DAA42A}|WebApi8\\WebApi8.csproj|solutionrelative:webapi8\\models\\autormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE752A6-D8C4-4588-A5AF-38AB43DAA42A}|WebApi8\\WebApi8.csproj|e:\\estudos csharp\\webapi8 - solo\\webapi8\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE752A6-D8C4-4588-A5AF-38AB43DAA42A}|WebApi8\\WebApi8.csproj|solutionrelative:webapi8\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAutorInterface.cs",
+              "DocumentMoniker": "E:\\estudos Csharp\\WebApi8 - solo\\WebApi8\\Services\\Autor\\IAutorInterface.cs",
+              "RelativeDocumentMoniker": "WebApi8\\Services\\Autor\\IAutorInterface.cs",
+              "ToolTip": "E:\\estudos Csharp\\WebApi8 - solo\\WebApi8\\Services\\Autor\\IAutorInterface.cs",
+              "RelativeToolTip": "WebApi8\\Services\\Autor\\IAutorInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T23:41:47.678Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutorModel.cs",
+              "DocumentMoniker": "E:\\estudos Csharp\\WebApi8 - solo\\WebApi8\\Models\\AutorModel.cs",
+              "RelativeDocumentMoniker": "WebApi8\\Models\\AutorModel.cs",
+              "ToolTip": "E:\\estudos Csharp\\WebApi8 - solo\\WebApi8\\Models\\AutorModel.cs",
+              "RelativeToolTip": "WebApi8\\Models\\AutorModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:10:08.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutorEdicaoDto.cs",
+              "DocumentMoniker": "E:\\estudos Csharp\\WebApi8 - solo\\WebApi8\\Dto\\Autor\\AutorEdicaoDto.cs",
+              "RelativeDocumentMoniker": "WebApi8\\Dto\\Autor\\AutorEdicaoDto.cs",
+              "ToolTip": "E:\\estudos Csharp\\WebApi8 - solo\\WebApi8\\Dto\\Autor\\AutorEdicaoDto.cs",
+              "RelativeToolTip": "WebApi8\\Dto\\Autor\\AutorEdicaoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:30:22.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutorService.cs",
+              "DocumentMoniker": "E:\\estudos Csharp\\WebApi8 - solo\\WebApi8\\Services\\Autor\\AutorService.cs",
+              "RelativeDocumentMoniker": "WebApi8\\Services\\Autor\\AutorService.cs",
+              "ToolTip": "E:\\estudos Csharp\\WebApi8 - solo\\WebApi8\\Services\\Autor\\AutorService.cs",
+              "RelativeToolTip": "WebApi8\\Services\\Autor\\AutorService.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAuwJMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T23:41:20.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutorController.cs",
+              "DocumentMoniker": "E:\\estudos Csharp\\WebApi8 - solo\\WebApi8\\Controllers\\AutorController.cs",
+              "RelativeDocumentMoniker": "WebApi8\\Controllers\\AutorController.cs",
+              "ToolTip": "E:\\estudos Csharp\\WebApi8 - solo\\WebApi8\\Controllers\\AutorController.cs",
+              "RelativeToolTip": "WebApi8\\Controllers\\AutorController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T23:52:11.544Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

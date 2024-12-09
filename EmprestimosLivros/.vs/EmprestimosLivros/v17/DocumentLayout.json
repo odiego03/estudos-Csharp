@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\estudos Csharp\\EmprestimosLivros\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C1C6805A-78A5-4C31-92CC-DE12C47F7F78}|EmprestimosLivros\\EmprestimosLivros.csproj|e:\\estudos csharp\\emprestimoslivros\\emprestimoslivros\\controllers\\emprestimoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C6805A-78A5-4C31-92CC-DE12C47F7F78}|EmprestimosLivros\\EmprestimosLivros.csproj|solutionrelative:emprestimoslivros\\controllers\\emprestimoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C1C6805A-78A5-4C31-92CC-DE12C47F7F78}|EmprestimosLivros\\EmprestimosLivros.csproj|e:\\estudos csharp\\emprestimoslivros\\emprestimoslivros\\views\\emprestimos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C1C6805A-78A5-4C31-92CC-DE12C47F7F78}|EmprestimosLivros\\EmprestimosLivros.csproj|solutionrelative:emprestimoslivros\\views\\emprestimos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C1C6805A-78A5-4C31-92CC-DE12C47F7F78}|EmprestimosLivros\\EmprestimosLivros.csproj|e:\\estudos csharp\\emprestimoslivros\\emprestimoslivros\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{C1C6805A-78A5-4C31-92CC-DE12C47F7F78}|EmprestimosLivros\\EmprestimosLivros.csproj|solutionrelative:emprestimoslivros\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1C6805A-78A5-4C31-92CC-DE12C47F7F78}|EmprestimosLivros\\EmprestimosLivros.csproj|e:\\estudos csharp\\emprestimoslivros\\emprestimoslivros\\controllers\\emprestimoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1C6805A-78A5-4C31-92CC-DE12C47F7F78}|EmprestimosLivros\\EmprestimosLivros.csproj|solutionrelative:emprestimoslivros\\controllers\\emprestimoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1C6805A-78A5-4C31-92CC-DE12C47F7F78}|EmprestimosLivros\\EmprestimosLivros.csproj|e:\\estudos csharp\\emprestimoslivros\\emprestimoslivros\\views\\emprestimos\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -42,23 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "EmprestimosController.cs",
               "DocumentMoniker": "E:\\estudos Csharp\\EmprestimosLivros\\EmprestimosLivros\\Controllers\\EmprestimosController.cs",
               "RelativeDocumentMoniker": "EmprestimosLivros\\Controllers\\EmprestimosController.cs",
               "ToolTip": "E:\\estudos Csharp\\EmprestimosLivros\\EmprestimosLivros\\Controllers\\EmprestimosController.cs",
               "RelativeToolTip": "EmprestimosLivros\\Controllers\\EmprestimosController.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAA8wGQAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T00:26:52.065Z"
+              "WhenOpened": "2024-10-31T00:26:52.065Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "site.js",
               "DocumentMoniker": "E:\\estudos Csharp\\EmprestimosLivros\\EmprestimosLivros\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "EmprestimosLivros\\wwwroot\\js\\site.js",
@@ -118,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\estudos Csharp\\EmprestimosLivros\\EmprestimosLivros\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "EmprestimosLivros\\Views\\Shared\\_Layout.cshtml",
@@ -130,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\estudos Csharp\\EmprestimosLivros\\EmprestimosLivros\\Views\\Emprestimos\\Index.cshtml",
               "RelativeDocumentMoniker": "EmprestimosLivros\\Views\\Emprestimos\\Index.cshtml",
@@ -138,8 +139,7 @@
               "RelativeToolTip": "EmprestimosLivros\\Views\\Emprestimos\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T00:24:52.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T00:24:52.872Z"
             }
           ]
         }
